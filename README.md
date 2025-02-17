@@ -22,18 +22,6 @@ My first project is a simple **Hello World** HTML file. This project will be use
 
 #### The HTML File:
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello World</title>
-</head>
-<body>
-    <h1>Hello, World!</h1>
-</body>
-</html>
 🚀 DevOps Principles and Workflow
 Throughout this repository, I will implement the following DevOps practices:
 
