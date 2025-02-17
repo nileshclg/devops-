@@ -49,6 +49,6 @@ Feel free to fork this repository and submit your own changes or improvements. O
 ## 🔗 Connect With Me
 
 - GitHub: [@nileshclg](https://github.com/nileshclg)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
+- LinkedIn: [Your LinkedIn](https://in.linkedin.com/in/nilesh-mete-511a6b244)
 
 Thanks for checking out my DevOps journey! Stay tuned for more tutorials and projects!
