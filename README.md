@@ -34,8 +34,6 @@ My first project is a simple **Hello World** HTML file. This project will be use
     <h1>Hello, World!</h1>
 </body>
 </html>
-This will be the first step in automating the process of building, testing, and deploying a web page with a focus on scalability and maintainability.
-
 🚀 DevOps Principles and Workflow
 Throughout this repository, I will implement the following DevOps practices:
 
